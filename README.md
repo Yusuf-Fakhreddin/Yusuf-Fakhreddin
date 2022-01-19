@@ -57,6 +57,9 @@
       <a href="#">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30" title="MongoDB" height="30" alt="mongo-db" style="vertical-align:top margin:6px 4px">
   </a> 
+          <a href="#">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="30" title="MySQL" height="30" alt="MySQL" style="vertical-align:top margin:6px 4px">
+  </a> 
       <a href="#">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" width="30" height="30" alt="git" style="vertical-align:top margin:6px 4px">
   </a> 
