@@ -9,10 +9,10 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/yusuf-fakhreddin-a89343211/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg" alt="LinkedIn Contact" style="vertical-align:top margin:6px 4px">
+    <img  title="/in/yusuf-fakhreddin-a89343211"  src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg" alt="LinkedIn Contact" style="vertical-align:top margin:6px 4px">
   </a> 
   <a href="mailto:yusuffakhreddin@gmail.com?">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg" alt="Email Contact: yusuffakhreddin@gmail.com" style="vertical-align:top margin:6px 4px">
+    <img  title="yusuffakhreddin@gmail.com"  src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg" alt="Email Contact: yusuffakhreddin@gmail.com" style="vertical-align:top margin:6px 4px">
   </a>  
 </p>
 
